@@ -2,4 +2,10 @@
  //b) Add a getFullName method on the person object that prints out the first name and last name
  //c) Access and display the address properties
  //d) Display the full name of Person object using the method you have created
+
+ let person = {
+    firstName: 'Saleh',
+    lastName: 'Mohammed',
+    age: 19,
+  };
  
