@@ -16,7 +16,7 @@
         return `${this.firstName} ${this.lastName}`
     }
   };
-  //prints the full name
+  //prints the full name // //d) Display the full name of Person object using the method you have created
   console.log(person.getFullName())
 
   //accesses and displays the address properties
