@@ -23,3 +23,7 @@
   console.log(person.address.city)
   console.log(person.address.street)
   console.log(person.address.zipCode)
+
+  //4. Delete the address property in Person
+  delete person.address
+  
