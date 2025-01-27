@@ -9,3 +9,5 @@ const person = {
  // How many properties does the object have? Name them
  console.log(Object.keys(person).length); // 3 , first name , last name and fullname
 
+
+ 
