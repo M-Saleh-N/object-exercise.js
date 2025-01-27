@@ -11,6 +11,8 @@
       city: 'Nairobi',
       street: '123 Main St',
       zipCode: '00100'
+    },
+    getFullName: function(){
+        return `${this.firstName} ${this.lastName}`
     }
   };
- 
