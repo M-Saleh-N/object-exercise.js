@@ -18,3 +18,6 @@
   };
   //prints the full name
   console.log(person.getFullName())
+
+  //accesses and displays the address properties
+  console.log(person.address.city)
