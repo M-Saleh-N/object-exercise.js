@@ -26,4 +26,7 @@
 
   //4. Delete the address property in Person
   delete person.address
+
+  //b) Access the address property, what does it display? Explain
+  console.log(person.address) // undefined
   
