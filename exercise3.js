@@ -22,3 +22,4 @@
   //accesses and displays the address properties
   console.log(person.address.city)
   console.log(person.address.street)
+  console.log(person.address.zipCode)
