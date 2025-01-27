@@ -7,5 +7,10 @@
     firstName: 'Saleh',
     lastName: 'Mohammed',
     age: 19,
+    address: {
+      city: 'Nairobi',
+      street: '123 Main St',
+      zipCode: '00100'
+    }
   };
  
