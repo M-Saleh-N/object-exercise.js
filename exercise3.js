@@ -12,7 +12,9 @@
       street: '123 Main St',
       zipCode: '00100'
     },
-    getFullName: function(){
+    getFullName: function(){      
         return `${this.firstName} ${this.lastName}`
     }
   };
+  //prints the full name
+  console.log(person.getFullName())
